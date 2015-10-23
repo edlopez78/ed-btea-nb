@@ -41,4 +41,4 @@ I found many matchs from Geoduck_male database and two examples are here:
 `Geo_Pool_M_CTTGTA_L006_R1_001_val_1_(paired)_contig_7892	70.52	1472	394	14	3339	4802	2334	3773	0.0	672`
 `Geo_Pool_M_CTTGTA_L006_R1_001_val_1_(paired)_contig_7892	65.76	885	271	13	1242	2122	216	1072	4e-050	201`
 
-Today was a great bioinformatic day...Thanks instructors
+#Today was a great bioinformatic day...Thanks instructors
