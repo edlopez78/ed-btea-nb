@@ -19,7 +19,7 @@ Fourth, we tried paste de GO in REVIGO but we can´t obtain results because to n
 
 Finally, we do charts with the ontological data:
 
-![picture](moreabundant.png)
+![picture](Moreabundant.png)
 
 ![picture](fe.png)
 
